@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11372641",
+      "name": "3D眼镜",
+      "font_class": "Dyanjing",
+      "unicode": "e8ab",
+      "unicode_decimal": 59563
+    },
+    {
+      "icon_id": "11372642",
+      "name": "彩蛋",
+      "font_class": "caidan",
+      "unicode": "e8ac",
+      "unicode_decimal": 59564
+    },
+    {
+      "icon_id": "11372672",
+      "name": "卡包",
+      "font_class": "kabao",
+      "unicode": "e8b1",
+      "unicode_decimal": 59569
+    }
+  ]
+}
